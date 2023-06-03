@@ -1,4 +1,4 @@
-# 🚀WritishBella
+# :pencil2: WritishBella
 
 Website for a freelance writer
 
